@@ -58,7 +58,7 @@ public class mesinminuman {
     void viewKembalian (){
         System.out.println("Kembalian : Rp." + kembalian);
         System.out.println("------------------------------------");
-        System.out.println("            Thanks You            ");
+        System.out.println("             Thanks You             ");
         System.out.println("------------------------------------");
     }    
     
