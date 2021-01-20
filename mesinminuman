@@ -66,7 +66,7 @@ public class mesinminuman {
         Scanner scan = new Scanner(System.in);
         MesinTiketFrame in = new mesinminuman();
         System.out.println("------------------------------------------------------------------------");
-        System.out.println("                              MENU MINUMAN                               ");
+        System.out.println("                              MENU MINUMAN                              ");
         System.out.println("------------------------------------------------------------------------");
         System.out.println("No Nama Minuman                                         Price");
         System.out.println("1. juice                                                Rp 10.000");
